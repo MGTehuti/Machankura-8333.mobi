@@ -1,4 +1,4 @@
-[Machanks BG Sticker](https://github.com/MGTehuti/Machankura-8333.mobi/assets/138019359/5574bf7c-6178-4ce3-aec9-18c04a7593d8)
+<img src="https://github.com/MGTehuti/Machankura-8333.mobi/assets/138019359/5574bf7c-6178-4ce3-aec9-18c04a7593d8 width="40%">
 # Mankura-8333.mobi
 Onboarding resource and marketing collateral
 
