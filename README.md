@@ -1,4 +1,4 @@
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/17384787/245643965-e14d51ad-f467-4f3a-9f2b-3fd02c86d455.JPG" width="40%">
+file:///C:/Users/TEHUTI/Documents/WORK%20STUFF/Machankura/Machankura%20Profile%20and%20Work/Machanks%20%20(stickers,%20tshirts%20and%20more)/Machanks%20BG%20Sticker.svg
 # Mankura-8333.mobi
 Onboarding resource and marketing collateral
 
