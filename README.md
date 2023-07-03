@@ -4,6 +4,6 @@
 Machankura is an innovative platform that facilitates Bitcoin transactions for feature phone users throughout Africa with Ghana recently being added to the list. The platform works by allowing users to send Bitcoin to a designated phone number, which can be received even on feature phones though SMS or USSD technology.
 
 ## Branding assets (logos, colors, design elements
-- [Brand Book in Figma](https://www.figma.com/file/eLxNsk3Sq18ffU3dFV2LXo/Blink-Brand-Assets?type=design&node-id=0-1)
+
 - [User's Guide](https://drive.google.com/file/d/1BO7Jc9x6GnmiOv59H1iKbxCmge7Po-Bh/view) 
 
