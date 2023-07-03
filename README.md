@@ -7,3 +7,43 @@ Machankura is an innovative platform that facilitates Bitcoin transactions for f
 
 - [User's Guide](https://drive.google.com/file/d/1BO7Jc9x6GnmiOv59H1iKbxCmge7Po-Bh/view) 
 
+## Onboarding materials 
+   - Getting started with Blink guide
+       
+   - Merchant mini-guide 
+ 
+   - Paycode LNURL QR poster/sticker templates
+     
+   - "Pay with bitcoin here" sign for posters/stickers
+      
+   - How to receive bitcoin poster
+      
+   - Bitcoin Banking for Communities: Lessons Learned from Bitcoin Beach 
+     
+
+## Helpful videos
+   - [Intro to Bitcoin Beach Wallet (Blink) for community leaders](https://www.youtube.com/watch?v=t1kFy3tX1kQ)
+   - [Stablesats – how it works](https://www.youtube.com/watch?v=FGO4dbwMYwg) 
+
+## Ways to get paid with Blink
+   - Lightning Address
+       - [username]@blink.sv
+       - Learn more: [lightningaddress.com](https://lightningaddress.com/)
+   - Cash register web app 
+       - [pay.blink.sv/[username]](https://pay.blink.sv/community)
+       - Learn more: [The Lightning Cash Register: POS Payments on the Lightning Network for Merchants](https://galoy.io/lightning-cash-register-pos-payments-on-bitcoins-lightning-network/)
+   - Printable LNURL paycode QR
+       - Accessible at [pay.blink.sv/[username]/print](https://pay.blink.sv/community/print)
+   - Scan LNURL-withdraw QR
+       - Try it out, create an LNURL-withdraw QR code at [lightsats.com](https://lightsats.com/) and scan it with Blink
+
+## Social profiles
+Follow and tag us so we can help promote your efforts 🤙
+   - Twitter [@blinkbtc](https://twitter.com/blinkbtc)
+   - Nostr 
+       - NIP-05: [commmunity@blink.sv](https://snort.social/community@blink.sv) (all zaps will be donated to community projects 🙏)
+       - npub: npub13ljnkd633c7maxatymv3y2fqq8vt3qk7j3tt0vytv90eztwgha9qmfcfhw
+
+## Hop into your preferred chat channel 
+   - [Telegram](https://t.me/blinkbtc) (general chat)
+   - [Mattermost](https://chat.galoy.io) (bugs, beta testing, translations)
