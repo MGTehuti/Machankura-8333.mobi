@@ -8,7 +8,7 @@ Machankura is an innovative platform that facilitates Bitcoin transactions for f
 - [User's Guide](https://drive.google.com/file/d/1BO7Jc9x6GnmiOv59H1iKbxCmge7Po-Bh/view) 
 
 ## Onboarding materials 
-   - Getting started with Blink guide
+   - Getting started with Machankura guide
        
    - Merchant mini-guide 
  
@@ -22,8 +22,7 @@ Machankura is an innovative platform that facilitates Bitcoin transactions for f
      
 
 ## Helpful videos
-   - [Intro to Bitcoin Beach Wallet (Blink) for community leaders](https://www.youtube.com/watch?v=t1kFy3tX1kQ)
-   - [Stablesats – how it works](https://www.youtube.com/watch?v=FGO4dbwMYwg) 
+  
 
 ## Ways to get paid with Blink
    - Lightning Address
