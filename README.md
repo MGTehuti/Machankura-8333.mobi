@@ -5,7 +5,15 @@ Machankura is an innovative platform that facilitates Bitcoin transactions for f
 
 ## Branding assets (logos, colors, design elements
 
-- [User's Guide](https://drive.google.com/file/d/1BO7Jc9x6GnmiOv59H1iKbxCmge7Po-Bh/view) 
+- [User's Guide](https://drive.google.com/file/d/1BO7Jc9x6GnmiOv59H1iKbxCmge7Po-Bh/view)
+
+
+
+
+
+## SWAG (stickers, tshirts and more)
+   - [Machankura sticker - 45mm width]file:///C:/Users/TEHUTI/Documents/WORK%20STUFF/Machankura/Machankura%20Profile%20and%20Work/Machankura%20Onboarding/Machanks%20%20(stickers,%20tshirts%20and%20more)/Machankura%20-%20sticker%20.svg
+
 
 ## Onboarding materials 
    - Getting started with Machankura guide
